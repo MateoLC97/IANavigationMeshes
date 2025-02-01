@@ -4,3 +4,5 @@
 
 # Set to CRLF for specific files (e.g., Windows batch scripts)
 *.bat text eol=crlf
+*.sh text eol=lf
+*.txt text eol=crlf
